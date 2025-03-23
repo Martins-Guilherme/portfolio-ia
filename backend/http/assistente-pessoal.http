@@ -1,0 +1,8 @@
+###
+POST https://suportemartins.app.n8n.cloud/webhook/assistente-pessoal
+Content-Type: application/json
+
+{
+  "chat-Id": "132546",
+  "mensagem": "Qual a sua especialização em desenvolvimento?"
+}
